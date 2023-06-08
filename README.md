@@ -5,7 +5,7 @@
     
 ## Table of Contents
     
-    - [Installation](https://github.com/ChrisLee2477/contact-form/tree/main#installation)
+    - [Installation](#installation)
     - [Usage]
     - [License]
     - [Contributing]
