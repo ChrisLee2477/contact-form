@@ -5,7 +5,7 @@
     
 ## Table of Contents
     
-    - [Installation](#installation)
+    - [Installation](https://github.com/ChrisLee2477/contact-form/edit/main/README.md#installation)
     - [Usage]
     - [License]
     - [Contributing]
